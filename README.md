@@ -1,6 +1,8 @@
 # HT1621 Small LCD
 
-## Deprecated Use SegLCDLib instead
+## Deprecated
+
+Use [SegLCDLib](https://github.com/petrkr/SegLCDLib) instead
 
 https://github.com/petrkr/SegLCDLib
 
